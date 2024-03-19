@@ -9,23 +9,23 @@ I can confidently say I am Versatile and adaptable and have communication skills
         try();
     }
 
-Languages / Frameworks
+Languages and Frameworks
 * HTML, CSS, JS
+* Cybersecurity
 * MERN stack
-* CPP
-* Java
-* Python 
+* CPP, Java, Python
+* Command Line and bash scripting 
 * Numpy, Pandas,Matplotlib
 * Scikitlearn
 
 
 ### Contact me 
-💻[Mail][mail]  
+💻[Email][mail]  
 👨‍💼[LinkedIn][linkedin]
 🚀[Github][github] 
 
 
 
-[mail]: nmaslekar777@gmail.com
+[mail]: mailto: nmaslekar777@gmail.com
 [linkedin]: https://www.linkedin.com/in/nimesh-maslekar-7700b4158/
 [github]: https://github.com/contributerMe/contributerMe
