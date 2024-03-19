@@ -20,12 +20,12 @@ Languages and Frameworks
 
 
 ### Contact me 
-💻[Email][mail]  
+💻[Email][mail] 📧
 👨‍💼[LinkedIn][linkedin]
 🚀[Github][github] 
 
 
 
-[mail]: mailto: nmaslekar777@gmail.com
+[mail]: nmaslekar777@gmail.com
 [linkedin]: https://www.linkedin.com/in/nimesh-maslekar-7700b4158/
 [github]: https://github.com/contributerMe/contributerMe
