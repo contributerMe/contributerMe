@@ -23,11 +23,9 @@ Languages / Frameworks
 💻[Mail][mail]  
 👨‍💼[LinkedIn][linkedin]
 🚀[Github][github] 
-📸 [InstaGram][instagram]
 
 
 
 [mail]: nmaslekar777@gmail.com
 [linkedin]: https://www.linkedin.com/in/nimesh-maslekar-7700b4158/
 [github]: https://github.com/contributerMe/contributerMe
-[instagram]: https://www.instagram.com/techno_flash77/
