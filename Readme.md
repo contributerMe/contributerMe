@@ -9,7 +9,7 @@ I can confidently say I am Versatile and adaptable and have communication skills
         try();
     }
 
-Languages and Frameworks
+Language, Frameworks and tools
 * HTML, CSS, JS
 * Cybersecurity
 * MERN stack
