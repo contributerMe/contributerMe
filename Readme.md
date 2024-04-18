@@ -39,3 +39,5 @@
   <img margin-right="20px" align="left" alt="Darshan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 </div>
+
+  <center><img class='heading-image' src="/img6.jpg" alt="Header Image"></center>
