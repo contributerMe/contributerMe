@@ -14,7 +14,7 @@
 </style>
 
 <div class="content-container">
-  <img class='heading-image' src="https://github.com/contributerMe/contributerMe/blob/master/img3.jpg" width='200px' alt="Header Image">
+  <img class='heading-image' src="/img3.jpg" width='200px' alt="Header Image">
   <div>
     <h2>Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
     <p>
