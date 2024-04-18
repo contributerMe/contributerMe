@@ -6,7 +6,7 @@ I'm adaptable and I have a commitment to continuous learning and professional de
 
 
 
-### Language, Frameworks and tools
+### Languages, Frameworks and tools
 <p>
 
   <div>
