@@ -9,6 +9,9 @@ I can confidently say I am Versatile and adaptable and have communication skills
         try();
     }
 
+
+<img alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+
 Language, Frameworks and tools
 * HTML, CSS, JS
 * Cybersecurity
