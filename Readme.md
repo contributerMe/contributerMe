@@ -1,17 +1,4 @@
-<style>
-  .content-container {
-    display: flex;
-    align-items: center; 
-    justify-content: space-between; 
-    max-width: 800px; 
-    margin: 0 auto; 
-  }
-  .heading-image {
-    max-width: 200px; 
-    height: auto; 
-    margin-right: 20px; 
-  }
-</style>
+
 
 <div class="content-container">
   <img class='heading-image' src="/img3.jpg" width='200px' alt="Header Image">
