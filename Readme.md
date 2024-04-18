@@ -6,7 +6,7 @@ I can confidently say I am Versatile and adaptable and have communication skills
 
 <img style = " width: 100%;
     height: auto;
-    max-width: 100%;" align="right" alt="GIF" src="https://github.com/contributerMe/contributerMe/blob/master/giphy.mp4" />
+    max-width: 100%;" alt="GIF" src="https://github.com/contributerMe/contributerMe/blob/master/giphy.mp4" />
 Language, Frameworks and tools
 * HTML, CSS, JS
 * Cybersecurity
