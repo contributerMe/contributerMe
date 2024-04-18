@@ -1,9 +1,9 @@
 
 
 <div class="content-container">
-  <center><img class='heading-image' src="/Nimesh Maslekar.png" alt="Header Image"></center>
+  <img class='heading-image' src="/Nimesh Maslekar.png" alt="Header Image">
   <div>
-    <h1>Hello World! <img  src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+    <center><h1>Hello World! <img  src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1></center>
     <p>
       I am Nimesh, a computer science undergrad at IIIT Nagpur. I'm skilled in web development with expertise in HTML, CSS, and JavaScript, along with proficiency in the MERN stack for full-stack development. I am currently exploring machine and deep learning. I'm adaptable and have a commitment to continuous learning and professional development.
     </p>
