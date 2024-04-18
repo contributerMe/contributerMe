@@ -7,7 +7,7 @@ I can confidently say I'm adaptable and have good communication skills and a com
 
 
 
-###Language, Frameworks and tools
+### Language, Frameworks and tools
 * HTML, CSS, JS
 * Cybersecurity
 * MERN stack
