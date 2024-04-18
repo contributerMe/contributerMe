@@ -4,14 +4,9 @@
 I am Nimesh, a computer science undergrad who is skilled in web development with expertise in HTML, CSS, and JavaScript, along with proficiency in the MERN stack for full-stack development I Specialize in data analysis and visualization using NumPy, Pandas, and Matplotlib, as well as machine learning with Scikit-learn.
 I can confidently say I am Versatile and adaptable and have communication skills and a commitment to continuous learning and professional development.
 
-
-    while(!goalAchieved){
-        try();
-    }
-
-
-<img alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
-
+<img style = " width: 100%;
+    height: auto;
+    max-width: 100%;" align="right" alt="GIF" src="https://github.com/contributerMe/contributerMe/blob/master/giphy.mp4" />
 Language, Frameworks and tools
 * HTML, CSS, JS
 * Cybersecurity
