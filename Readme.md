@@ -1,7 +1,7 @@
 
 
 <div class="content-container">
-  <img class='heading-image' src="/Nimesh Maslekar.png" alt="Header Image">
+  <img class='heading-image' src="/IMG_20240421_205816.png" alt="Header Image">
   <div>
     <center><h1>Hello World! <img  src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1></center>
     <p>
