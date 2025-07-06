@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I’m Nimesh Maslekar! 
+#  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hi there, I’m Nimesh Maslekar
 
 <div align="center">
   <img src="https://github.com/contributerMe/contributerMe/blob/main/bottom_header.svg" width="100%" alt="AI Tech GIF">
@@ -8,7 +8,6 @@
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nimesh-maslekar-7700b4158/)
-[![GitHub Followers](https://img.shields.io/github/followers/nmaslekar777?label=Follow&style=social)](https://github.com/contributerMe)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=flat-square&logo=firefox)](https://nimesh-maslekar-portfolio.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Email-nmaslekar777@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:nmaslekar777@gmail.com)
 
