@@ -77,9 +77,15 @@ I enjoy solving problems, building scalable AI systems, and constantly exploring
 
 ## ✨ Let's Connect!
 
+
+
 - 💬 Always up for discussing AI, cybersecurity, or cool side projects.
 - 📬 Drop me an email: **nmaslekar777@gmail.com**
-- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/nimesh-maslekar-7700b4158/)
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/nimesh-maslekar-7700b4158/
+  
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI Tech GIF">
+</div>
 
 ---
 
